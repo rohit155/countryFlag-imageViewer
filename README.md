@@ -7,10 +7,10 @@
 I am Rohit Jangid 😃. I am from Nagpur, Maharashtra. I love to explore and learn iOS and web.
 ## ⚡ Technologies
 Talk to me about
+- iOS application development (learning) **Xcode & Swift**
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - Backend development using **MongoDB**
 - Full-stack development (learning)
-- iOS application development (learning) **Xcode & Swift**
 
 ## Hello World!! 🤔
 - 💬 Feel free to ask or discuss about web and iOS.
